@@ -46,7 +46,7 @@ Ensure you have Python installed. Then, follow these steps:
 ## Assumptions
 - Users will enter valid inspection data without additional enforcement beyond the implemented validation.
 - The application will be used in an environment where Python 3.8+ is available.
-- The generated PDFs will be stored in the same directory as the application unless otherwise specified.
+- The generated PDFs will be stored in the src directory.
 
 ## Directory Structure
 ```
