@@ -17,8 +17,8 @@ Ensure you have Python installed. Then, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd cableway-inspector
+   git clone https://github.com/ECCC-projects/CabelwayInspector.git
+   cd CabelwayInspector
    ```
 2. Install dependencies:
    ```bash
@@ -26,6 +26,7 @@ Ensure you have Python installed. Then, follow these steps:
    ```
 3. Run the application:
    ```bash
+   cd src
    python main.py
    ```
 
