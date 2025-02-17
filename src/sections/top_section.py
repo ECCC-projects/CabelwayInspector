@@ -1,5 +1,3 @@
-# src/sections/top_section.py
-
 from .base_section import BaseSection
 import tkinter as tk
 from tkinter import ttk, messagebox
