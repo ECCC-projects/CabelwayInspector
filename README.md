@@ -71,12 +71,12 @@ src/
 ```
 
 ## Future Steps 
-1. Data Management and Persistence
+1. ### Data Management and Persistence
    -Save form progress
    -Create a data backup and recovery system
-2. Integration Capabilities
+3. Integration Capabilities
    -Create export/import interfaces for different file formats
-3. Performance
+4. Performance
    -Implement caching mechanisms
    -PDF generation speed
    
