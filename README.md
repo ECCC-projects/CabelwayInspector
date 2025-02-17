@@ -20,10 +20,11 @@ Ensure you have Python installed. Then, follow these steps:
    git clone https://github.com/ECCC-projects/CabelwayInspector.git
    cd CabelwayInspector
    ```
-2. Install dependencies:
+2. Install required libraries:
    ```bash
-   pip install -r requirements.txt
-   ```
+   pip install pillow
+   pip install fpdf
+   pip install tkinterdnd2
 3. Run the application:
    ```bash
    cd src
