@@ -71,14 +71,15 @@ src/
 ```
 
 ## Future Steps 
-1. ### Data Management and Persistence
-   -Save form progress
-   -Create a data backup and recovery system
+1. Data Management and Persistence
+   - Save form progress
+   - Create a data backup and recovery system
+2. Performance:
+   - Implement caching mechanisms
+   - PDF generation speed
 3. Integration Capabilities
-   -Create export/import interfaces for different file formats
-4. Performance
-   -Implement caching mechanisms
-   -PDF generation speed
+   - Create export/import interfaces for different file formats
+ 
    
 ## Dependencies
 - `tkinter` – GUI framework
